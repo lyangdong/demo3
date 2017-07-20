@@ -1,6 +1,6 @@
 *{
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin: 0;
 }
 body{
     font: normal 13px 'Microsoft YaHei','\5B8B\4F53',Arial,sans-serif;
@@ -96,7 +96,7 @@ a{
     text-align: center;
     font-size: 15px;
     margin: 10px 5px 10px 0px;
-    font-family: '宋体';
+    font-family: '脣脦脤氓';
     font-weight: bold;
     background-color: #ff7f00;
     width: 108px;
@@ -248,7 +248,7 @@ a{
     line-height: 31px;
     font-size: 15px;
     color: #767676;
-    font-family: '宋体';
+    font-family: '脣脦脤氓';
     text-align: justify;
 }
 .clear{
@@ -259,7 +259,7 @@ a{
     line-height: 31px;
     font-size: 15px;
     color: #767676;
-    font-family: '宋体';
+    font-family: '脣脦脤氓';
     text-align: justify;
     float:left;
     width: 697px;
@@ -315,7 +315,7 @@ a{
     line-height: 1.8;
     font-size: 15px;
     text-align: justify;
-    font-family:'宋体';
+    font-family:'脣脦脤氓';
 }
 .flag1{
     margin-left: 55px;
