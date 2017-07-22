@@ -1,13 +1,11 @@
-/**
- * Created by liu on 2016/6/14.
- */
+
 $(function() {
     $('.banner').unslider({
         speed: 500,
         delay: 3000,
         fluid: true
     });
-    //顶部导航
+    //椤堕儴瀵艰埅
     $("#btn1").click(function(){
         $("body").animate({scrollTop:$('.profile').offset().top},300);
     });
@@ -46,7 +44,7 @@ $(function() {
     })
 
 
-    //查看大图
+    //鏌ョ湅澶у浘
     $('.shows-img .img-item').click(function(){
         var src = $(this).find('img').attr('data-src');
         $('.big-img-box').show().find('img').attr('src',src);
@@ -55,7 +53,7 @@ $(function() {
         },0);
         $('body').animate({scrollTop: 2814},500);
     });
-    //收起大图
+    //鏀惰捣澶у浘
     $('.big-img-box').click(function(){
         $('.big-img-box').hide();
         $('.big-img-box .big-img-inner').removeClass('show');
